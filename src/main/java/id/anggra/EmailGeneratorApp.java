@@ -1,4 +1,4 @@
-package org.example;
+package id.anggra;
 
 import java.awt.*;
 import java.awt.datatransfer.Clipboard;
