@@ -1,0 +1,4 @@
+# Generate-Email-Java
+This is a Generate Email application project using Java and Swing. The application allows users to create emails according to a specified format, which consists of mixed characters, a connecting symbol (underscore or period), mixed characters, 2-digit numbers, the @ symbol, a commonly used public email provider, a period, and a common domain. The total number of characters allowed is a minimum of 25 characters and a maximum of 40 characters. An additional feature included in this application is a copy button, which allows users to save the generated email to their clipboard.
+
+To run this project, you must have Java SDK software and a Java IDE such as Eclipse or IntelliJ. Download the project source files and open them with an IDE, then run the Main.java file. The application will open a GUI window and allow you to generate emails and save them to your clipboard.
